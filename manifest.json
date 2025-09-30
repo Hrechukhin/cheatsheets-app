@@ -6,11 +6,14 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
+  "orientation": "portrait",
+  "scope": "/cheatsheets-app/",
   "icons": [
     {
       "src": "/cheatsheets-app/icon.svg",
       "sizes": "any",
-      "type": "image/svg+xml"
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
     }
   ]
 }
