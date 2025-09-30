@@ -1,0 +1,16 @@
+{
+  "name": "Cheat Sheets App",
+  "short_name": "CheatSheets",
+  "description": "Educational cheat sheets for various subjects",
+  "start_url": "/cheatsheets-app/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": [
+    {
+      "src": "/cheatsheets-app/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
